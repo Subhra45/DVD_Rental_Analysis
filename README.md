@@ -82,4 +82,4 @@ dvd_rental_analysis/
 
 This project is licensed under the MIT License — feel free to use and adapt.
 
-_Built with SQL, Power BI, and curiosity about movies & data!_
+_Built with SQL, Power BI, and curiosity about movies & ❤️ for data!_
