@@ -22,3 +22,21 @@ Using SQL for querying and Power BI for visualization, we answer key business qu
 * Query Language: SQL
 * Visualization: Power BI
 * Version Control: Git & GitHub
+
+dvd-rental-analysis/
+│
+├── README.md                 # Project overview  
+├── sql_queries/              # All SQL queries (individual + full script)  
+│   ├── 01_top_customers.sql  
+│   ├── 02_most_rented_films.sql  
+│   ├── ...  
+│   └── all_queries.sql  
+│
+├── powerbi/                  # Power BI dashboard + screenshots  
+│   ├── dvd_rental_dashboard.pbix  
+│   └── screenshots/  
+│
+├── docs/                     # Documentation and diagrams  
+│   └── dvd_rental_erd.png  
+│
+└── LICENSE                   # (Optional) Open-source license  
