@@ -43,7 +43,16 @@ dvd_rental_analysis/
 ├── sql_queries/
 │   ├── 01_top_customers.sql
 │   ├── 02_most_rented_films.sql
-│   ├── ...
+|   ├── 03_top_categories.sql
+|   ├── 04_top_store.sql
+|   ├── 05_top_staff.sql
+|   ├── 06_hourly_rentals.sql
+|   ├── 07_top_rental_day.sql
+|   ├── 08_avg_rental_duration.sql
+|   ├── 09_monthly_revenue_trend.sql
+|   ├── 10_revenue_by_film_category.sql
+│   ├── 11_top_actors.sql
+|   ├── 12_active_vs_inactive_customers.sql
 │   └── all_queries.sql
 │
 ├── powerbi/
