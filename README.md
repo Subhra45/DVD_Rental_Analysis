@@ -1,6 +1,6 @@
-# DVD Rental Analysis
+# 🎬 DVD Rental Analysis
 
-## Project Overview
+## 📖 Project Overview
 
 This project analyzes the DVD Rental sample database (PostgreSQL) to uncover insights about customer behavior, revenue trends, staff performance, and film popularity. The dataset is a popular sample provided for practicing SQL and BI tools.
 
