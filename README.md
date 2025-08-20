@@ -16,3 +16,9 @@ Using SQL for querying and Power BI for visualization, we answer key business qu
 * Evaluate customer activity (active vs inactive)
 * Assess actor and film performance
 
+### Tech Stack
+
+* Database: PostgreSQL
+* Query Language: SQL
+* Visualization: Power BI
+* Version Control: Git & GitHub
