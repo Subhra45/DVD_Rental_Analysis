@@ -56,3 +56,24 @@ dvd_rental_analysis/
 └── LICENSE
 ```
 
+### Dashboard Preview
+
+### How to Run?
+1. Database Setup
+   - Install PostgreSQL
+   - Load the sample DVD Rental database
+   - Connect to the DB
+2. Run Queries
+   ```
+   -- Example: Monthly Revenue
+      SELECT 
+          TO_CHAR(DATE_TRUNC('month', payment_date), 'YYYY-MM') AS month,
+          SUM(amount) AS total_revenue
+      FROM payment
+      GROUP BY month
+      ORDER BY month;
+   ```
+3. Power BI Dashboard
+   - Open dvd_rental_dashboard.pbix
+   - Connect to PostgreSQL
+   - Refresh the visuals
