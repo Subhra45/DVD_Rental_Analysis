@@ -78,6 +78,8 @@ dvd_rental_analysis/
    - Connect to PostgreSQL
    - Refresh the visuals
 
-#### License
+### License
 
-This project is licensed under the MIT License — feel free to use and adapt.
+This project is licensed under the MIT License — feel free to use and adapt.\
+
+__Built with SQL, Power BI, and curiosity about movies & data!__
