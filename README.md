@@ -39,7 +39,7 @@ Using SQL for querying and Power BI for visualization, we answer key business qu
 dvd_rental_analysis\
 │\
 ├── README.md\
-├── sql_queries/\
+├── sql_queries/
 │   ├── 01_top_customers.sql\
 │   ├── 02_most_rented_films.sql\  
 │   ├── ...  
