@@ -33,3 +33,9 @@ Using SQL for querying and Power BI for visualization, we answer key business qu
 * Some actors appear in highly rented films, driving higher revenues
 * The majority of customers are active, but a smaller group is inactive (potential churn risk)
 * Store and staff performance varies, with some stores/staff generating higher revenue than others
+
+### Repository Structure
+
+dvd_rental_analysis
+|
+|
