@@ -23,20 +23,13 @@ Using SQL for querying and Power BI for visualization, we answer key business qu
 * Visualization: Power BI
 * Version Control: Git & GitHub
 
-dvd-rental-analysis/
-│
-├── README.md                 
-├── sql_queries/
-│   ├── 01_top_customers.sql  
-│   ├── 02_most_rented_films.sql  
-│   ├── ...  
-│   └── all_queries.sql  
-│
-├── powerbi/
-│   ├── dvd_rental_dashboard.pbix  
-│   └── screenshots/  
-│
-├── docs/
-│   └── dvd_rental_erd.png  
-│
-└── LICENSE
+### Key Insights
+
+* Certain film categories (like Action and Comedy) contribute the most to revenue
+* The top 10 customers generate a significant share of total payments
+* Rental activity peaks during specific evening hours
+* The busiest rental days are typically weekends
+* Monthly revenue trends show seasonality and business fluctuations
+* Some actors appear in highly rented films, driving higher revenues
+* The majority of customers are active, but a smaller group is inactive (potential churn risk)
+* Store and staff performance varies, with some stores/staff generating higher revenue than others
