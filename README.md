@@ -37,5 +37,5 @@ Using SQL for querying and Power BI for visualization, we answer key business qu
 ### Repository Structure
 
 dvd_rental_analysis
-|
-|
+ | 
+ | 
