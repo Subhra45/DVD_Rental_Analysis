@@ -77,3 +77,7 @@ dvd_rental_analysis/
    - Open dvd_rental_dashboard.pbix
    - Connect to PostgreSQL
    - Refresh the visuals
+
+#### License
+
+This project is licensed under the MIT License — feel free to use and adapt.
