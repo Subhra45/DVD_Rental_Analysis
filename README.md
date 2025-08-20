@@ -36,7 +36,7 @@ Using SQL for querying and Power BI for visualization, we answer key business qu
 
 ### Repository Structure
 
-dvd_rental_analysis/
+```dvd_rental_analysis/
 │
 ├── README.md
 ├── sql_queries/
@@ -52,4 +52,4 @@ dvd_rental_analysis/
 ├── docs/
 │   └── dvd_rental_erd.png
 │
-└── LICENSE
+└── LICENSE```
