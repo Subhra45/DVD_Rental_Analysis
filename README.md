@@ -8,20 +8,11 @@ Using SQL for querying and Power BI for visualization, we answer key business qu
 
 ### Objectives
 
-Identify the top customers and their contribution to revenue
-Discover the most rented films and popular categories
+* Identify the top customers and their contribution to revenue
+* Discover the most rented films and popular categories
 Track monthly revenue trends and seasonality
 Compare store performance and staff revenue contributions
 Analyze rental patterns (by hour and day of week)
 Evaluate customer activity (active vs inactive)
 Assess actor and film performance
-
-
-* Item 1
-* Item 2
-    * Nested Item 2.1
-    * Nested Item 2.2
-- Item 3
-+ Item 4
-
 
